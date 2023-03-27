@@ -40,4 +40,5 @@ const greet = () => 'hello world!';
 
 ## Languages
 - Russian – Native­
-- English – B2 (according to the [puzzle-english.com test](https://puzzle-english.com/level-test/common)) <br> ![Results and statistics of an English language test from puzzle-english.com](/img/test-result.png)
+- English – C1 Advanced (according to the [EF SET Quick Check](https://www.efset.org/quick-check/))<br>
+![EF SET Quick Check Score 92 / 100](img/test-result.png)
